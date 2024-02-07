@@ -15,3 +15,9 @@ By leveraging NLP, SpamGuard Pro understands nuanced language patterns, distingu
 ## Enhancing Digital Security
 
 Experience a safer and more secure digital communication environment with SpamGuard Pro, where sophisticated spam detection capabilities elevate the overall quality of online interactions. Stay protected in the ever-evolving landscape of spam threats.
+
+## Demo
+
+[streamlit-App-2024-02-07-13-02-10.webm](https://github.com/figo2001/SapmGuard-Pro-v/assets/78696850/73706905-db84-44d6-b8fd-b0551d110f94)
+
+
